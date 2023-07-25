@@ -1,0 +1,30 @@
+# Permalinks
+permalink:      /blog/:year-:month-:day/:title
+# Setup
+title:          "[/home/ashimov/]:$ "
+paginate:       5
+paginate_path: "blog/page:num/"
+baseurl:        ""
+url:            "https://ashimov.com"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Berik Ashimov
+  url:          https://ashimov.com
+
+# Custom vars
+version:        1.0.1
+github:
+  repo:         https://github.com/ashimov
+
+# Gems
+gems:
+  - jekyll-paginate
