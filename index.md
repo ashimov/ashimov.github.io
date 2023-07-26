@@ -13,8 +13,8 @@ I enjoy all things Linux and open source, and taking things apart to see how the
 
 <br />
 
-*"You don’t understand anything until you learn it more than one way." Marvin Minsky*
-   \- Niels Bohr
+*You don’t understand anything until you learn it more than one way.*
+   \-  Marvin Minsky
 <br />
 <br />
 
