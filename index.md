@@ -1,20 +1,19 @@
 ---
 layout: post
-title: "I like to void warranties"
-author: "Berik"
+title: ""
+author: ""
 permalink: /
 ---
 
 ## Hello world. I'm Berik.
 
-Devops Engineer / Platform Engineer in Astana, KZ.
+I'm Devops Engineer / Platform Engineer in Astana, KZ.
 
-I enjoy all things Linux and open source, and taking things apart to see how they work.
 
 <br />
 
-*You don’t understand anything until you learn it more than one way.*
-   \-  Marvin Minsky
+
+   \-
 <br />
 <br />
 
