@@ -1,33 +1,26 @@
 ---
 layout: post
-title: ""
-author: ""
+title: "Hello, world"
+author: "Berik Ashimov"
 permalink: /
 ---
 
 ## Hello world. I'm Berik.
 
-I'm Devops Engineer / Platform Engineer in Astana, KZ.
+I'm a DevOps / Platform Engineer based in Almaty, Kazakhstan.
 
-
-<br />
-
-
-   \-
-<br />
-<br />
+---
 
 ## Contact
-  <script type="text/javascript">
-                function gen_mail_to_link(lhs,rhs,subject)
-                {
-                        document.write("<A HREF=\"mailto");
-                        document.write(":" + lhs + "@");
-                        document.write(rhs + "?subject=" + subject + "\">" + lhs + "@" + rhs + "<\/A>");
-                        return
-                }
-  </script>
-[Twitter](http://www.twitter.com/B3r1k) <br />
-[Github](https://github.com/ashimov) <br />
-[LinkedIn](https://www.linkedin.com/in/berik-ashimov) <br />
-<SCRIPT LANGUAGE="JavaScript" type="text/javascript"> gen_mail_to_link('berik','ashimov.com','') </script><br />
+  
+- [GitHub](https://github.com/ashimov)  
+- [LinkedIn](https://www.linkedin.com/in/berik-ashimov)  
+- <span id="email"></span>
+
+<script type="text/javascript">
+  (function genMailToLink(lhs, rhs, subject = "") {
+    const email = `${lhs}@${rhs}`;
+    const link = `<a href="mailto:${email}?subject=${encodeURIComponent(subject)}">${email}</a>`;
+    document.getElementById("email").innerHTML = link;
+  })('berik', 'ashimov.com');
+</script>
