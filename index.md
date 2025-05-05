@@ -15,4 +15,4 @@ I'm a DevOps / Platform Engineer based in Almaty, Kazakhstan.
   
 - [GitHub](https://github.com/ashimov)  
 - [LinkedIn](https://www.linkedin.com/in/berik-ashimov)  
-- [EMAIL](mailto:berik@ashimov.com)  
+- [Email](mailto:berik@ashimov.com)  
